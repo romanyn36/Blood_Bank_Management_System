@@ -5,3 +5,4 @@
 2.	Insert, update, select and delete employees from  DB
 3.	Monitor every data in our system
 •	Developed with: NetBeans, MySQL workbench 
+[LinkedIn ]([https://example.com](https://www.linkedin.com/in/romanyn36/))
