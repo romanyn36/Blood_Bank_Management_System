@@ -1,8 +1,16 @@
-# Blood Bank management system		                             GitHub   	              Jan.2022
-•	Our system developed to help management of the blood bank, system can work with both employees and users ,system should monitor available amount of blood for each blood group and save data for both donors for each blood in stock and recipients that will take blood ,system manage employees information else.
-•	 functions in our system:
-1.	Login, sign up for donors and recipients 
-2.	Insert, update, select and delete employees from  DB
-3.	Monitor every data in our system
-•	Developed with: NetBeans, MySQL workbench 
-[LinkedIn ]([https://example.com](https://www.linkedin.com/in/romanyn36/))
+# Blood Bank Management System
+
+![Blood Bank](images/blood_bank_image.jpg)
+
+Our system is developed to help manage the blood bank. It can be used by both employees and users. The system monitors the available amount of blood for each blood group and stores data for both blood donors and recipients. Additionally, the system manages employee information.
+
+## Functions in our system:
+1. Login and sign up for donors and recipients
+2. Insert, update, select, and delete employees from the database
+3. Monitor all data in our system
+
+## Technologies Used:
+- NetBeans
+- MySQL Workbench
+
+[LinkedIn](https://www.linkedin.com/in/romanyn36/)
