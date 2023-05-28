@@ -10,8 +10,11 @@
 <h1 align="center">Blood Bank Management System</h1>
 
 <p align="center">
-[![Contributors][contributors-shield]][contributors-url]
-</p>
+<a href="https://github.com/romanyn36/Blood_Bank_Management_System/graphs/contributors">
+  <img src="https://github.com/romanyn36/Blood_Bank_Management_System.svg?style=for-the-badge" alt="Contributors" />
+</a>
+
+<!-- </p> -->
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -19,7 +22,7 @@
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#busts_in_silhouette-collaborators">collaborators</a> &#xa0; | &#xa0;
+  <!-- <a href="#busts_in_silhouette-collaborators">collaborators</a> &#xa0; | &#xa0; -->
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/romanyn36" target="_blank">Author</a>
 </p>
