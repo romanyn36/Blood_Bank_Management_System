@@ -27,9 +27,6 @@
   <img src="https://img.shields.io/github/issues/romanyn36/Blood_Bank_Management_System.svg?style=for-the-badge" alt="issues" />
 </a>
 
-<a href="https://www.linkedin.com/in/romanyn36/">
-  <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555" alt="license" />
-</a>
 
 
 <!-- </p> -->
