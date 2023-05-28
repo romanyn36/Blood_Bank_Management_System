@@ -11,8 +11,26 @@
 
 <p align="center">
 <a href="https://github.com/romanyn36/Blood_Bank_Management_System/graphs/contributors">
-  <img src="https://github.com/romanyn36/Blood_Bank_Management_System.svg?style=for-the-badge" alt="Contributors" />
+  <img src="https://img.shields.io/github/contributors/romanyn36/Blood_Bank_Management_System.svg?style=for-the-badge" alt="Contributors" />
 </a>
+
+
+<a href="https://github.com/romanyn36/Blood_Bank_Management_System/network/members">
+  <img src="https://img.shields.io/github/forks/romanyn36/Blood_Bank_Management_System.svg?style=for-the-badge" alt="forks" />
+</a>
+
+<a href="https://github.com/romanyn36/Blood_Bank_Management_System/stargazers">
+  <img src="https://img.shields.io/github/stars/romanyn36/Blood_Bank_Management_System.svg?style=for-the-badge" alt="stars" />
+</a>
+
+<a href="https://github.com/romanyn36/Blood_Bank_Management_System/issues">
+  <img src="https://img.shields.io/github/issues/romanyn36/Blood_Bank_Management_System.svg?style=for-the-badge" alt="issues" />
+</a>
+
+<a href="https://www.linkedin.com/in/romanyn36/">
+  <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555" alt="license" />
+</a>
+
 
 <!-- </p> -->
 
@@ -101,5 +119,3 @@ Made with :heart: by <a href="https://github.com/romanyn36" target="_blank">{{Ro
 <a href="#top">Back to top</a>
 
 
-[contributors-url]: https://github.com/romanyn36/Blood_Bank_Management_System/graphs/contributors
-[contributors-shield]: https://img.shields.io/github/contributors/romanyn36/Blood_Bank_Management_System.svg?style=for-the-badge
