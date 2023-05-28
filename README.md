@@ -1,7 +1,8 @@
+
+
+
 <div align="center" id="top"> 
 <img src="/images/manageScreen.png" alt="Blood_bank Project" width="300" height="300" />
-
-
 
   <!-- <a href="/images/demo.mp4">Demo</a> -->
 </div>
@@ -9,6 +10,8 @@
 <h1 align="center">Blood Bank Management System</h1>
 
 <p align="center">
+[![Contributors][contributors-shield]][contributors-url]
+</p>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -20,6 +23,21 @@
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/romanyn36" target="_blank">Author</a>
 </p>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#dart-about">About</a></li>
+    <li><a href="#sparkles-features">Features</a></li>
+    <li><a href="#rocket-technologies">Technologies</a></li>
+    <li><a href="#white_check_mark-requirements">Requirements</a></li>
+    <li><a href="#checkered_flag-starting">Starting</a></li>
+    <li><a href="#busts_in_silhouette-collaborators">collaborators</a></li>
+    <li><a href="#memo-license">License</a></li>
+    <li><a href="https://github.com/romanyn36" target="_blank">Author</a></li>
+  </ol>
+</details>
 
 <br>
 
@@ -78,3 +96,7 @@ Made with :heart: by <a href="https://github.com/romanyn36" target="_blank">{{Ro
 &#xa0;
 
 <a href="#top">Back to top</a>
+
+
+[contributors-url]: https://github.com/romanyn36/Blood_Bank_Management_System/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/romanyn36/Blood_Bank_Management_System.svg?style=for-the-badge
