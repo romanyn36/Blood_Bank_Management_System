@@ -36,10 +36,8 @@
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <!-- <a href="#busts_in_silhouette-collaborators">collaborators</a> &#xa0; | &#xa0; -->
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/romanyn36" target="_blank">Author</a>
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;<!-- <a href="#busts_in_silhouette-collaborators">collaborators</a> &#xa0; | &#xa0; -->
+<a href="#email-contact">Contact</a> &#xa0; | &#xa0;<a href="#memo-license">License</a> &#xa0; | &#xa0;
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -104,12 +102,62 @@ $ cd Blood_Bank_Management_System
 -
 -
 
+### :email: Contact ##
+<p align="center">
+ <a href="https://www.facebook.com/romanyn3/" target="_blank">
+  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+
+<!-- <a href="https://twitter.com/romanyn36" target="_blank">
+  <img src="https://img.shields.io/badge/-@romanyn36-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /> -->
+</a>
+
+<!-- <a href="https://www.instagram.com/romanyn36/" target="_blank">
+  <img src="https://img.shields.io/badge/-romanyn36-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+</a> -->
+
+
+<!-- <a href="mailto:youremail@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=mail.ru&logoColor=white" alt="Email" />
+</a> -->
+
+<!-- <a href="https://www.linkedin.com/in/romanyn36" target="_blank">
+  <img src="https://img.shields.io/badge/-@romanyn36-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a> -->
+
+<a href="https://github.com/romanyn36" target="_blank">
+  <img src="https://img.shields.io/badge/-@romanyn36-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</p>
+
+<!-- social links -->
+<p align="center">
+<a href="https://romanyn36.github.io" target="_blank">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+</a>
+
+<a href="https://www.linkedin.com/in/romanyn36/" target="_blank">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+
+<a href="https://dev.to/romanyn36" target="_blank">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+</a>
+
+<a href="https://twitter.com/romanyn36" target="_blank">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+</a>
+</p>
+
+
+
 ## :memo: License ##
 
-This project is under license from MIT. For more details.
+This project is under license from MIT. For more details. [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/romanyn36/romanyn36/blob/main/License.md)
 
 
-Made with :heart: by <a href="https://github.com/romanyn36" target="_blank">{{Romani}}</a>
+Made by <a href="https://github.com/romanyn36" target="_blank">Romani</a>
 
 &#xa0;
 
