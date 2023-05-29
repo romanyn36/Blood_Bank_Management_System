@@ -29,14 +29,41 @@
 
 
 
-<!-- </p> -->
+</p>
+<p align="center">
+ <a href="https://www.facebook.com/romanyn3/" target="_blank">
+  <img src="https://img.shields.io/badge/-Romani-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+
+<a href="https://twitter.com/romanyn36" target="_blank">
+  <img src="https://img.shields.io/badge/-@romanyn36-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+
+<!-- <a href="https://www.instagram.com/romanyn36/" target="_blank">
+  <img src="https://img.shields.io/badge/-romanyn36-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+</a> -->
+
+
+<!-- <a href="mailto:youremail@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=mail.ru&logoColor=white" alt="Email" />
+</a> -->
+
+<a href="https://www.linkedin.com/in/romanyn36" target="_blank">
+  <img src="https://img.shields.io/badge/-@romanyn36-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/romanyn36" target="_blank">
+  <img src="https://img.shields.io/badge/-@romanyn36-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</p>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;<!-- <a href="#busts_in_silhouette-collaborators">collaborators</a> &#xa0; | &#xa0; -->
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;<a href="#busts_in_silhouette-collaborators">collaborators</a> &#xa0; | &#xa0;
 <a href="#email-contact">Contact</a> &#xa0; | &#xa0;<a href="#memo-license">License</a> &#xa0; | &#xa0;
 </p>
 
@@ -50,6 +77,7 @@
     <li><a href="#white_check_mark-requirements">Requirements</a></li>
     <li><a href="#checkered_flag-starting">Starting</a></li>
     <li><a href="#busts_in_silhouette-collaborators">collaborators</a></li>
+    <li><a href="#email-contact">Contact</a></li>
     <li><a href="#memo-license">License</a></li>
     <li><a href="https://github.com/romanyn36" target="_blank">Author</a></li>
   </ol>
@@ -97,10 +125,7 @@ $ cd Blood_Bank_Management_System
 ```
 ## :busts_in_silhouette: collaborators ##
 - [Riham Ebrahim](https://github.com/rihamibrahim17)
-- 
--
--
--
+
 
 ### :email: Contact ##
 <p align="center">
