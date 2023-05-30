@@ -100,11 +100,6 @@ Our system is developed to help manage the blood bank. It can be used by both em
 
 
 
-
-[LinkedIn](https://www.linkedin.com/in/romanyn36/)
-
-
-
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
