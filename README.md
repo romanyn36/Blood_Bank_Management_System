@@ -124,8 +124,9 @@ $ git clone https://github.com/romanyn36/Blood_Bank_Management_System.git
 $ cd Blood_Bank_Management_System
 ```
 ## :busts_in_silhouette: collaborators ##
-- [Riham Ebrahim](https://github.com/rihamibrahim17) [![](https://img.shields.io/badge/-@rihamibrahim17-181717?style=flat&logo=github&logoColor=white)](https://github.com/rihamibrahim17) [![](https://img.shields.io/badge/-RihamIbrahim-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riham-ibrahim-61ab67227) [![](https://img.shields.io/badge/-RihamIbrahim-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/reham.ibrahem.589?mibextid=ZbWKwL)
-- Reham Mustafa
+- Riham Ebrahim &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/-@rihamibrahim17-181717?style=flat&logo=github&logoColor=white)](https://github.com/rihamibrahim17) [![](https://img.shields.io/badge/-Riham_Ibrahim-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riham-ibrahim-61ab67227) [![](https://img.shields.io/badge/-Riham_Ibrahim-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/reham.ibrahem.589?mibextid=ZbWKwL)
+
+- Reham Mustafa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/-Reham_Mustafa-181717?style=flat&logo=github&logoColor=white)](https://github.com/Reham-Mustafa)
 - Sameh Mohamed
 - Ru'a Ayman
 - Sara Reda El Sheikh
@@ -138,7 +139,7 @@ $ cd Blood_Bank_Management_System
 ### :email: Contact ##
 <p align="center">
  <a href="https://www.facebook.com/romanyn3/" target="_blank">
-  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
+  <img src="https://img.shields.io/badge/-Romani Nasser-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 
 <!-- <a href="https://twitter.com/romanyn36" target="_blank">
