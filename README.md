@@ -1,11 +1,14 @@
 
 
 
-<div align="center" id="top"> 
-<img src="/images/manageScreen.png" alt="Blood_bank Project" width="300" height="300" />
+<p align="center" id="top"> 
+<img src="/images/manageScreen.png" alt="Blood_bank Project" width="200" height="200" />
 
-  <!-- <a href="/images/demo.mp4">Demo</a> -->
-</div>
+ <img src="/images/donorSignUp.png" alt="Blood_bank Project" width="200" height="200" />
+</p>
+<p align="center" id="top"> 
+ <img src="/images/bloodStock.png" alt="Blood_bank Project" width="200" height="200" />
+</p>
 
 <h1 align="center">Blood Bank Management System</h1>
 
